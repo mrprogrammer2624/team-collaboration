@@ -1,0 +1,11 @@
+.d {
+  grid-template-columns: 2fr 1.5fr;
+}
+
+.DashboardBottomTable {
+  margin-top: var(--space-xl);
+}
+
+.AttendanceOverviewTable {
+  margin-top: var(--space-xl);
+}
